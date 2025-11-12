@@ -1,5 +1,14 @@
 # @medusajs/utils
 
+## 2.11.4
+
+### Patch Changes
+
+- [#13953](https://github.com/medusajs/medusa/pull/13953) [`9d9d0397a88c398683f75ac3d6f539c1a686d278`](https://github.com/medusajs/medusa/commit/9d9d0397a88c398683f75ac3d6f539c1a686d278) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(): Index integration tests flackyness
+
+- Updated dependencies []:
+  - @medusajs/deps@2.11.4
+
 ## 2.11.3
 
 ### Patch Changes
